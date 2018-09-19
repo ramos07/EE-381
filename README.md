@@ -1,2 +1,2 @@
-# EE-381
+# EE_381
 Probability and Statistics with Computational Applicatons @CSULB

@@ -1,2 +1,1 @@
-# EE_381 
-Probability and Statistics with Computational Applications
+# EE 381 Probability and Statistics with Computational Applications
